@@ -33,6 +33,7 @@ class Song
     result
   end
   
-  def
+  def self.find_or_create_by_name(title)
+    
 
 end
